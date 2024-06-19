@@ -6,6 +6,8 @@ This repository contains Terraform configurations to deploy a virtual machine in
 
 [Terraform](https://www.terraform.io/) is an open-source `infrastructure as a code` software tool created by HashiCorp. It allows users to define and provision datacenter infrastructure using a high-level configuration language known as HashiCorp Configuration Language (HCL), or optionally JSON. Terraform manages external resources (such as public cloud infrastructure, private cloud infrastructure, network appliances, and software as a service) with a "provider" model, supporting multiple providers such as AWS, Azure, Google Cloud, and others.
 
+Still want to learn more about Terraform? [Watch this YouTube video](https://youtu.be/nvNqfgojocs?si=zVBe2ph61lq6JY97)
+
 ## Prerequisites
 
 - [Terraform](https://www.terraform.io/downloads.html) installed
